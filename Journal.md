@@ -25,3 +25,9 @@ also i wired up the mymg for 12V to 5V power for the rp2350b chip
 <img width="644" height="264" alt="image" src="https://github.com/user-attachments/assets/b457d3cd-c389-4b53-a9d0-671f2ca383d9" />
 Time spent: 1 hour
 
+18th-19th Jan 2026
+I wired up all the Bosch connections to the rp2350b
+<img width="1194" height="845" alt="SCH_Avian_1-Power and sensors_2026-01-19" src="https://github.com/user-attachments/assets/c013ecf4-aa23-4955-ba01-2031137b25f0" />
+Time spent: 1 hour
+
+
